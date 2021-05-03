@@ -2,7 +2,7 @@
 
 This project consists of the execution and validation of the unsupervised learning algorithm for clustering (K-means) studied in the discipline of Artificial Intelligence, taught by Prof. Dr. Heloisa de Arruda Camargo.
 
-## Data set
+## Dataset
 
 We used in the two stages of the project a data set called diagnosis.data with 8 variables, found in the UCI repository: https://archive.ics.uci.edu/ml/datasets/Acute+Inflammations
 
